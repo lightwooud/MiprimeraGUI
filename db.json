@@ -39,36 +39,7 @@
             "shortInfo": "Manizales es una ciudad de la región cafetera montañosa del oeste de Colombia. Es conocida por sus eventos culturales, las calles empinadas y las vistas del volcán Nevado del Ruiz cercano.",
             "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Catedral_de_Manizales.jpg/320px-Catedral_de_Manizales.jpg",
             "punctuation": "Puntuación: 4.1"
-        },
-        {
-            "cityName": "Pereira",
-            "largeInfo": "Pereira es un municipio colombiano, capital del departamento de Risaralda. Es la ciudad más poblada de la región del eje cafetero; conforma el Área Metropolitana de Centro Occidente junto con los municipios de Dosquebradas y La Virginia. Como capital del departamento de Risaralda, Pereira alberga las sedes de la Gobernación de Risaralda, la Asamblea Departamental, el Tribunal Departamental, el Área Metropolitana y la Fiscalía General.",
-            "ubiGeo": "Pereira se encuentra sobre la cordillera central, sobre el valle del río Otún, y parte del valle del río Cauca. El área municipal es de 702 km²; limita al norte con los municipios de Balboa, La Virginia, Marsella y Dosquebradas, al noreste con Santa Rosa de Cabal y al este con el departamento del Tolima, al sur con los departamentos de Quindío y Valle del Cauca, al oeste con el municipio de Balboa y el departamento del Valle del Cauca.",
-            "tempClima": "El clima de Pereira oscila entre los siguientes puntos: clima cálido, el 9.9 %; clima medio, el 60.7 %; clima frío, el 11.5 %; páramo, 17.7 %; su precipitación media anual es de 2750 mm. Esta característica climática y la conformación de los suelos, brinda también una variedad en la cobertura vegetal y paisajística, potenciando el municipio de Pereira con una de las biodiversidades más ricas de la nación.",
-            "sitesRec": "En lo turístico, desde el Parque Temático Ukumarí hasta la Laguna del Otún, o el Nevado de Santa Isabel, todos ubicados dentro del municipio, ofrecen escenarios para actividades que van desde el deporte de aventura al ecoturismo. Pereira también es conocida por su vida nocturna, debido a sus bares y discotecas. El parque nacional natural Los Nevados, cobija una extensa franja al oriente del departamento de Risaralda, ofrece una vista de los Nevados del Ruíz, Tolima y Santa Isabel. Allí se encuentra la laguna del Otún, lugar de nacimiento del Río Otún que atraviesa la ciudad y abastece de agua potable a Pereira.",
-            "shortInfo": "Pereira es una ciudad de una región montañosa cafetera en el oeste de Colombia, conocida por el café arábica suave. La plaza principal, Plaza de Bolívar, tiene una estatua del héroe de la independencia Simón Bolívar desnudo a caballo.",
-            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Plaza-bolivar.jpg/320px-Plaza-bolivar.jpg",
-            "punctuation": "Puntuación: 4.5"
-        },
-        {
-            "cityName": "Desierto de la Tatacoa",
-            "largeInfo": "El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia después de la península de la Guajira, y es uno de los escenarios naturales más atractivos de Colombia",
-            "ubiGeo": " Ubicado a tan solo 40 minutos de Neiva,exactamente a unos pocos minutos del municipio de  villavieja del departamento del Huila ",
-            "tempClima": "El desierto puede superar los 45ºC al mediodía y en las noches la temperatura desciende en promedio a 18ºC.",
-            "sitesRec": "Destino sublime de tonalidades ocres y grisáceas. Una maravilla de la naturaleza clasificada como parte de un ecosistema de bosque seco tropical y  es uno de los escenarios naturales más atractivos de Colombia",
-            "shortInfo": "El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia después de la península de la Guajira, y es uno de los escenarios naturales más atractivos de Colombia",
-            "imageURL": "https://encolombia.com/wp-content/uploads/2020/01/Desierto-de-la-Tatacoa-696x391.jpg",
-            "punctuation": "Puntuación: 4.5"
-        },
-        {
-            "cityName": "Portales del Fraguita",
-            "largeInfo": "se dice que se formaron cuando el rio fraguita logro atravesar la roca y formo paredes de aproximadamente 50 metros de altura a lado y lado",
-            "ubiGeo": "Municipio de San José del Fragua, Departamento de Caquetá, sur de Colombia. ",
-            "tempClima": "23.9 °C. Precipitaciones,  promedios 2179 mm.",
-            "sitesRec": "La particularidad única de paisaje dibuja de manera natural un río con dirección recta durante un tramo, para luego perderse en medio de dos verdes montañas como si se tratara de una obra artística.",
-            "shortInfo": "La particularidad única de paisaje dibuja de manera natural un río con dirección recta durante un tramo",
-            "imageURL": "https://1.bp.blogspot.com/-u2VnSwMSGc8/XyspPMHM5UI/AAAAAAAAcR4/YkLXgyoZ1YI7Kw2uIrlBVlOSOC33MfaPwCLcBGAsYHQ/s640/portales-de-frag%25C3%25BCita-caquet%25C3%25A1-colombia-paisaje-1.jpg",
-            "punctuation": "Puntuación: 4.5"
         }
+  
     ]
 }
