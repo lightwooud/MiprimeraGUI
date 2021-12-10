@@ -1,4 +1,5 @@
-[
+{
+       "cities":[
        {
             "cityName": "Santiago de Tunja",
             "largeInfo": "Tunja es un municipio colombiano, capital del departamento de Boyacá. Tunja fue construida sobre Hunza, la capital de la confederación Muisca - Chibcha el 6 de agosto de 1539",
@@ -20,3 +21,4 @@
             "punctuation": "Puntuación: 4.5"
         }
 ]
+}
