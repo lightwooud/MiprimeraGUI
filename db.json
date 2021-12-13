@@ -1,0 +1,28 @@
+{
+       "cities":[
+       {
+            "cityName": "Santiago de Tunja",
+            "largeInfo": "Tunja es un municipio colombiano, capital del departamento de Boyacá. Tunja fue construida sobre Hunza, la capital de la confederación Muisca - Chibcha el 6 de agosto de 1539",
+            "ubiGeo": "Santiago de Tunja está situado sobre la cordillera oriental de los Andes a 115 km al noreste de Bogotá",
+            "tempClima": " 12 grados.",
+            "sitesRec": "El Centro Histórico de Tunja fue declarado Monumento Nacional en 1959, ya que conserva, en sus edificaciones coloniales (palacios, conventos, iglesias y calles inclinadas), valiosos tesoros artísticos, pinturas, esculturas y ornamentos",
+            "shortInfo": "Ciudad capital del departamento de Boyacá e ícono intelectual y cultural desde la época de la independencia de Colombia",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/CatedralTunja1.jpg/320px-CatedralTunja1.jpg",
+            "punctuation": "Puntuación: 4.5",
+              "latitud" : "3.43722",
+              "longitud" : "-76.5225" 
+        },
+        {
+            "cityName": "Bogotá",
+            "largeInfo": "Es la capital y la ciudad más grande de Colombia, tiene alrededor de 8 millones de habitantes. Constituye el centro político, económico, financiero y cultural del país, por lo tanto es el punto de encuentro de personas de todas las regiones, lo que la hace diversa y multicultural.",
+            "ubiGeo": "Ubicada en el centro del país, en la cordillera oriental, la capital del país tiene una extensión aproximada de 33 kilómetros",
+            "tempClima": "10 grados",
+            "sitesRec": "La Candelaria, es el centro vibrante de Bogotá, allí fue fundada la ciudad en 1538. Con edificaciones de estilos colonial y republicano, más de 20 museos y cerca de 90 atractivos turísticos",
+            "shortInfo": "Bogotá, 2600 metros más cerca de las estrellas, es la extensa capital en altura de Colombia",
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bogot%C3%A1_Colpatria_Night.jpg/320px-Bogot%C3%A1_Colpatria_Night.jpg",
+            "punctuation": "Puntuación: 4.5",
+               "longitud" : "4.60971",
+               "latitud" : "-74.08175"
+        }
+]
+}
