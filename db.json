@@ -9,8 +9,8 @@
             "shortInfo": "Ciudad capital del departamento de Boyacá e ícono intelectual y cultural desde la época de la independencia de Colombia",
             "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/CatedralTunja1.jpg/320px-CatedralTunja1.jpg",
             "punctuation": "Puntuación: 4.5",
-              "latitud" : "3.43722",
-              "longitud" : "-76.5225" 
+              "latitud" : "5.53528",
+              "longitud" : "-73.36778" 
         },
         {
             "cityName": "Bogotá",
@@ -33,8 +33,8 @@
                "shortInfo":"Es la capital del departamento Atlántico de Colombia y es un desbordante puerto marino, bordeado por el río Magdalena. La ciudad es conocida por su enorme Carnaval.",
                "imageURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Panor%C3%A1mica_general_de_Barranquilla.JPG/320px-Panor%C3%A1mica_general_de_Barranquilla.JPG",
                "punctuation":"Puntuación: 4.4",
-               "latitud" : "3.43722",
-              "longitud" : "-76.5225"   
+               "latitud" : "10.96854",
+              "longitud" : "-74.78132"   
         },
         {
                "cityName":"Desierto de la Tatacoa",
@@ -45,8 +45,8 @@
                "shortInfo":"El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia después de la península de la Guajira, y es uno de los escenarios naturales más atractivos de Colombia",
                "imageURL":"https://encolombia.com/wp-content/uploads/2020/01/Desierto-de-la-Tatacoa-696x391.jpg",
                "punctuation":"Puntuación: 4.5",
-               "latitud" : "3.43722",
-              "longitud" : "-76.5225"  
+               "latitud" : "3.230000",
+              "longitud" : "-75.170000"  
         },  
         {
                "cityName":"Portales del Fraguita",
@@ -57,8 +57,8 @@
                "shortInfo":"La particularidad única de paisaje dibuja de manera natural un río con dirección recta durante un tramo",
                "imageURL":"https://1.bp.blogspot.com/-u2VnSwMSGc8/XyspPMHM5UI/AAAAAAAAcR4/YkLXgyoZ1YI7Kw2uIrlBVlOSOC33MfaPwCLcBGAsYHQ/s640/portales-de-frag%25C3%25BCita-caquet%25C3%25A1-colombia-paisaje-1.jpg",
                "punctuation":"Puntuación: 4.5",
-               "latitud" : "3.43722",
-              "longitud" : "-76.5225"  
+               "latitud" : "1.18484",
+              "longitud" : "-76.1516"  
         }      
           
                 
