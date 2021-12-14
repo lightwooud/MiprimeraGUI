@@ -9,8 +9,8 @@
             "shortInfo": "Ciudad capital del departamento de Boyacá e ícono intelectual y cultural desde la época de la independencia de Colombia",
             "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/CatedralTunja1.jpg/320px-CatedralTunja1.jpg",
             "punctuation": "Puntuación: 4.5",
-              "latitud" : "3.43722",
-              "longitud" : "-76.5225" 
+              "geoLat" : "3.43722",
+              "geoLon" : "-76.5225" 
         },
         {
             "cityName": "Bogotá",
@@ -21,8 +21,9 @@
             "shortInfo": "Bogotá, 2600 metros más cerca de las estrellas, es la extensa capital en altura de Colombia",
             "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bogot%C3%A1_Colpatria_Night.jpg/320px-Bogot%C3%A1_Colpatria_Night.jpg",
             "punctuation": "Puntuación: 4.5",
-               "longitud" : "4.60971",
-               "latitud" : "-74.08175"
-        }
+               "geoLat" : "4.60971",
+               "geoLon" : "-74.08175"
+        },
+              
 ]
 }
