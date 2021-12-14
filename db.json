@@ -9,8 +9,8 @@
             "shortInfo": "Ciudad capital del departamento de Boyacá e ícono intelectual y cultural desde la época de la independencia de Colombia",
             "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/CatedralTunja1.jpg/320px-CatedralTunja1.jpg",
             "punctuation": "Puntuación: 4.5",
-              "geoLat" : "3.43722",
-              "geoLon" : "-76.5225" 
+              "latitud" : "3.43722",
+              "longitud" : "-76.5225" 
         },
         {
             "cityName": "Bogotá",
@@ -21,9 +21,46 @@
             "shortInfo": "Bogotá, 2600 metros más cerca de las estrellas, es la extensa capital en altura de Colombia",
             "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bogot%C3%A1_Colpatria_Night.jpg/320px-Bogot%C3%A1_Colpatria_Night.jpg",
             "punctuation": "Puntuación: 4.5",
-               "geoLat" : "4.60971",
-               "geoLon" : "-74.08175"
+               "latitud" : "4.60971",
+               "longitud" : "-74.08175"
         },
-              
+        {
+               "cityName":"Barranquilla",
+               "largeInfo":"Barranquilla, oficialmente Distrito Especial, Industrial y Portuario de Barranquilla, es la capital del departamento del Atlántico, Colombia. Es el principal centro económico de la región Caribe de Colombia, entre las actividades económicas destacan el comercio y la industria.",
+               "ubiGeo":"Está ubicada sobre la margen occidental del río Magdalena a 7,5 km de su desembocadura en el mar Caribe",
+               "tempClima":"30 grados",
+               "sitesRec":"El centro histórico, los sectores de Barranquillita y El Boliche. El paseo de Bolívar, eje del centro de Barranquilla, es la avenida más importante de la ciudad",
+               "shortInfo":"Es la capital del departamento Atlántico de Colombia y es un desbordante puerto marino, bordeado por el río Magdalena. La ciudad es conocida por su enorme Carnaval.",
+               "imageURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Panor%C3%A1mica_general_de_Barranquilla.JPG/320px-Panor%C3%A1mica_general_de_Barranquilla.JPG",
+               "punctuation":"Puntuación: 4.4",
+               "latitud" : "3.43722",
+              "longitud" : "-76.5225"   
+        },
+        {
+               "cityName":"Desierto de la Tatacoa",
+               "largeInfo":"El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia después de la península de la Guajira, y es uno de los escenarios naturales más atractivos de Colombia",
+               "ubiGeo":" Ubicado a tan solo 40 minutos de Neiva,exactamente a unos pocos minutos del municipio de  villavieja del departamento del Huila ",
+               "tempClima":"¿ 45ºC al mediodía y en las noches la temperatura desciende en promedio a 18ºC.",
+               "sitesRec":"Destino sublime de tonalidades ocres y grisáceas. Una maravilla de la naturaleza clasificada como parte de un ecosistema de bosque seco tropical",
+               "shortInfo":"El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia después de la península de la Guajira, y es uno de los escenarios naturales más atractivos de Colombia",
+               "imageURL":"https://encolombia.com/wp-content/uploads/2020/01/Desierto-de-la-Tatacoa-696x391.jpg",
+               "punctuation":"Puntuación: 4.5",
+               "latitud" : "3.43722",
+              "longitud" : "-76.5225"  
+        },  
+        {
+               "cityName":"Portales del Fraguita",
+               "largeInfo":"se dice que se formaron cuando el rio fraguita logro atravesar la roca y formo paredes de aproximadamente 50 metros de altura a lado y lado",
+               "ubiGeo":"Municipio de San José del Fragua, Departamento de Caquetá, sur de Colombia. ",
+               "tempClima":"23.9 °C.",
+               "sitesRec":"La particularidad única de paisaje dibuja de manera natural un río con dirección recta durante un tramo, para luego perderse en medio de dos verdes montañas como si se tratara de una obra artística.",
+               "shortInfo":"La particularidad única de paisaje dibuja de manera natural un río con dirección recta durante un tramo",
+               "imageURL":"https://1.bp.blogspot.com/-u2VnSwMSGc8/XyspPMHM5UI/AAAAAAAAcR4/YkLXgyoZ1YI7Kw2uIrlBVlOSOC33MfaPwCLcBGAsYHQ/s640/portales-de-frag%25C3%25BCita-caquet%25C3%25A1-colombia-paisaje-1.jpg",
+               "punctuation":"Puntuación: 4.5",
+               "latitud" : "3.43722",
+              "longitud" : "-76.5225"  
+        }      
+          
+                
 ]
 }
